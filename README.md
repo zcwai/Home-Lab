@@ -7,4 +7,4 @@ Eric Capuano’s guide: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-anal
 
 To set up this lab, I will be setting up an attack machine on an Ubuntu server and an endpoint machine will be set up on Windows 11. First, I will be disabling Microsoft Defender so that it doesn’t interfere with any attacks I will be sending to this machine. Next, I will be installing Sliver on the Ubuntu machine as my primary attack tool. Finally, I will be setting up LimaCharlie on the Windows machine as an EDR solution to observe attacks and develop detection rules around the attacks. I will also be installing sysmon for auditing and logging, to generate telemetry inside LimaCharlie. LimaCharlie will have a sensor linked to the windows and will be importing sysmon logs.
 
-!(https://github.com/user-attachments/assets/d9b1363c-4f82-4551-8059-a80c73284a84)
+![Screenshot 2024-09-15 175453](https://github.com/user-attachments/assets/d9b1363c-4f82-4551-8059-a80c73284a84)
