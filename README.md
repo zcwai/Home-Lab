@@ -75,6 +75,7 @@ _Figure 3.1: Processes_
 _Figure 3.2: Network list_
 
 ![Screenshot 2024-09-16 150745](https://github.com/user-attachments/assets/077c3eec-3680-488f-8d5b-961946470761)
+![Screenshot 2024-09-16 150806](https://github.com/user-attachments/assets/cc5d2d40-aecc-4c5a-8231-977c6c54ceae)
 _Figure 3.3: Identifying the destination IP this process is communication with_
 
 Now I’ll use LimaCharlie to scan the hash of the payload through VirusTotal; it will be clean because I generated the payload myself.
